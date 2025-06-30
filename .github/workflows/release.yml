@@ -11,6 +11,8 @@ on:
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant permission to create a release
     steps:
       # Step 1: Check out your repository's code
       - name: Checkout
