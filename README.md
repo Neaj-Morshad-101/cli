@@ -1,20 +1,10 @@
 # Tasker CLI
 
-[![Go Version](https://img.shields.io/github/go-mod/go-version/neaj-morshad-101/tasker-cli?style=for-the-badge)](https://go.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 > A simple but powerful command-line interface (CLI) for managing your to-do list right from the terminal.
 
 Tasker is built with Go and Cobra to be fast, cross-platform, and easy to use. Never leave your terminal to manage your daily tasks again!
 
-## Demo
-
-Here is a quick demonstration of the core workflow:
-
-![Tasker CLI Demo](./demo.gif)
-*(To create a GIF like this, you can use tools like [asciinema](https://asciinema.org/) and `agg`)*
-
-Alternatively, here's a text-based preview:
+here's a text-based preview:
 
 ```bash
 # Add a few new tasks
